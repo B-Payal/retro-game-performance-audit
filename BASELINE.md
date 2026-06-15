@@ -76,4 +76,4 @@
 
 ## Overall Outcome
 
-After applying all six optimizations, the application became significantly more responsive. The leaderboard loads much faster, network traffic is dramatically reduced, duplicate API requests are eliminated, search filtering feels instantaneous, and deleting a score only re-renders the affected component instead of the entire list. These improvements make the application scalable and provide a smoother user experience under heavier loads.
+After applying all six optimizations, the application became significantly more responsive. The leaderboard loads much faster, network traffic is dramatically reduced, duplicate API requests are eliminated, search filtering feels instantaneous, and deleting a score only re-renders the affected component instead of the entire list. These improvements make the application scalable and provide a smoother user experience under heavier loads.It made the app optimized
